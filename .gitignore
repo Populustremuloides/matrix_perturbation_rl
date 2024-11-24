@@ -1,0 +1,11 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebooks
+*.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
